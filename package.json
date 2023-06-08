@@ -16,7 +16,7 @@
     "express",
     "mongodb"
   ],
-  "author": "ricky",
+  "author": "zarazzarr",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/zarazzar/public-api-pab2/issues"
@@ -29,7 +29,8 @@
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
     "joi": "^17.9.2",
-    "mongoose": "^7.2.1",
+    "moment": "^2.29.4",
+    "mongoose": "^7.2.0",
     "nodemon": "^2.0.22"
   }
 }
