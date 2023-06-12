@@ -16,7 +16,7 @@
     "express",
     "mongodb"
   ],
-  "author": "zarazzarr",
+  "author": "ricky",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/zarazzar/public-api-pab2/issues"

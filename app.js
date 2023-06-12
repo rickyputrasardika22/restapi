@@ -12,7 +12,7 @@ app.use(bodyParser.urlencoded({
 app.use(bodyParser.json());
 app.use(cors())
 
-//import routes
+//import routes 
 const authRoutes = require ('./routes/auth')
 const postRoutes = require('./routes/post')
 
